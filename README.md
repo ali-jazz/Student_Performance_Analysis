@@ -206,7 +206,7 @@ student-performance-analysis/
 │
 ├── README.md
 │
-└── LUCENSE
+└── LICENSE
 ```
 
 ---
